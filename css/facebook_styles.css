@@ -10,7 +10,8 @@ body{
     #tagline {
         font-size: 28px;
         margin-top: -12px;
-        margin-left: 261px ;
+        margin-left: 261px;
+        width: 33%;
     }
     #Block{
         height: 22rem;
